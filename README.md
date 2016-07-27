@@ -14,6 +14,13 @@ https://arxiv.org/abs/1512.01693
 A deep learning approach to reinforcement learning led to a general learner able to train on visual input to play a variety of arcade games at the human and superhuman levels. Its creators at the Google DeepMind's team called the approach: Deep Q-Network (DQN). We present an extension of DQN by "soft" and "hard" attention mechanisms. Tests of the proposed Deep Attention Recurrent Q-Network (DARQN) algorithm on multiple Atari 2600 games show level of performance superior to that of DQN. Moreover, built-in attention mechanisms allow a direct online monitoring of the training process by highlighting the regions of the game screen the agent is focusing on when making decisions.
 
 
+--------------------------------------------------------
+
+
+Reinforced Decision Trees
+https://arxiv.org/abs/1505.00908
+
+In order to speed-up classification models when facing a large number of categories, one usual approach consists in organizing the categories in a particular structure, this structure being then used as a way to speed-up the prediction computation. This is for example the case when using error-correcting codes or even hierarchies of categories. But in the majority of approaches, this structure is chosen \textit{by hand}, or during a preliminary step, and not integrated in the learning process. We propose a new model called Reinforced Decision Tree which simultaneously learns how to organize categories in a tree structure and how to classify any input based on this structure. This approach keeps the advantages of existing techniques (low inference complexity) but allows one to build efficient classifiers in one learning step. The learning algorithm is inspired by reinforcement learning and policy-gradient techniques which allows us to integrate the two steps (building the tree, and learning the classifier) in one single algorithm.
 
 
 
