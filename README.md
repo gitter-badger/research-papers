@@ -1,4 +1,6 @@
 # research-papers
+
+[![Join the chat at https://gitter.im/deep-learning-ai-research/research-papers](https://badges.gitter.im/deep-learning-ai-research/research-papers.svg)](https://gitter.im/deep-learning-ai-research/research-papers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 List of curated research papers on A.I. and Deep Learning
 
 Grid Long Short-Term Memory, DeepMind
